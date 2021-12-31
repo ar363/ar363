@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a student
+
+I have nothing to say as of now
+
+📫 To reach me, email me at aditya.rajb+gh@gmail.com
+
 <!--
 **ar363/ar363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
