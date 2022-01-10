@@ -2,9 +2,11 @@
 
 I'm a student
 
-I have nothing to say as of now
-
 📫 To reach me, email me at aditya.rajb+gh@gmail.com
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ar363&show_icons=true&theme=blue-green)
+
+![My top languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ar363&layout=compact&theme=blue-green)
 
 <!--
 **ar363/ar363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
