@@ -4,6 +4,8 @@ I'm a student
 
 📫 To reach me, email me at aditya.rajb+gh@gmail.com
 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+
 ![My GitHub stats](https://gh-readme-stats-ar363.vercel.app/api?username=ar363&show_icons=true&theme=blue-green&count_private=true)
 
 ![My top languages stats](https://gh-readme-stats-ar363.vercel.app/api/top-langs/?username=ar363&layout=compact&theme=blue-green&count_private=true)
