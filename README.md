@@ -8,7 +8,7 @@ First year student at AI & Data Science branch of Ramaiah Institute of Technolog
 - Web scraping 🤐
 - Very rarely some raspberrypi stuff
 
-📫 DM [Instagram](https://www.instagram.com/ar.363_/). I dont check it often tho
+📫 DM [Instagram](https://www.instagram.com/ar.363_/) or [LinkedIn](https://www.linkedin.com/in/aditya-raj-a000aa187/). I dont check socials often tho
 
 I really need to stop procrastinating and make a proper portfolio site
 
