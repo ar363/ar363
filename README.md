@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 
 
 First year student at AI & Data Science branch of Ramaiah Institute of Technology
 
 #### Stuff I do
 - Frontend web dev - React, Next.js, tailwindcss and all that
 - Backend web dev - Django usually, Next.js for frontend heavy sites, laravel if you wanted me to
-- Web scraping 🤐
+- Web scraping 
 - Very rarely some raspberrypi stuff
 
 📫 DM [Instagram](https://www.instagram.com/ar.363_/) or [LinkedIn](https://www.linkedin.com/in/aditya-raj-a000aa187/). I dont check socials often tho
 
-I really need to stop procrastinating and make a proper portfolio site
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
