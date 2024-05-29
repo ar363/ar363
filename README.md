@@ -1,40 +1,21 @@
 ### Hi there 
 
-First year student at AI & Data Science branch of Ramaiah Institute of Technology
+1st year student at AI & Data Science // Ramaiah Institute of Technology
 
 #### Stuff I do
-- Frontend web dev - React, Next.js, tailwindcss and all that
-- Backend web dev - Django usually, Next.js for frontend heavy sites, laravel if you wanted me to
-- Web scraping 
-- Very rarely some raspberrypi stuff
+- Frontend - React, Next.js, TailwindCSS, and more..
+- Backend & DB - Django, Next.js, Express.js, Laravel, Sqlite, MySQL, MongoDB
+- Web scraping, IoT - Raspberrypi/Arduino
 
-📫 DM [Instagram](https://www.instagram.com/ar.363_/) or [LinkedIn](https://www.linkedin.com/in/aditya-raj-a000aa187/). I dont check socials often tho
+📫 [LinkedIn](https://www.linkedin.com/in/aditya-raj-a000aa187/)
 
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
 ![My GitHub stats](https://gh-readme-stats-ar363.vercel.app/api?username=ar363&show_icons=true&theme=blue-green&count_private=true)
 
 ![My top languages stats](https://gh-readme-stats-ar363.vercel.app/api/top-langs/?username=ar363&layout=compact&theme=blue-green&count_private=true)
 
-<!--
-**ar363/ar363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<h3 align="left">Languages and tools I like to use:</h3>
+<h3 align="left">Stuff I like to use:</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
