@@ -1,6 +1,6 @@
 ### Hi there 
 
-1st year student at AI & Data Science // Ramaiah Institute of Technology
+2nd year student at AI & Data Science // Ramaiah Institute of Technology
 
 #### Stuff I do
 - Frontend - React, Next.js, TailwindCSS, and more..
@@ -15,7 +15,7 @@
 ![My top languages stats](https://gh-readme-stats-ar363.vercel.app/api/top-langs/?username=ar363&layout=compact&theme=blue-green&count_private=true)
 
 
-<h3 align="left">Stuff I like to use:</h3>
+<h3 align="left">Tools I use:</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
