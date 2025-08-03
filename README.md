@@ -1,13 +1,17 @@
-### Hi there 
+### Hi, I'm Aditya 
 
-2nd year student at AI & Data Science // Ramaiah Institute of Technology
+I’m a 3rd-year AI & Data Science student @ Ramaiah Institute of Technology
 
-#### Stuff I do
-- Frontend - React, Next.js, TailwindCSS, and more..
-- Backend & DB - Django, Next.js, Express.js, Laravel, Sqlite, MySQL, MongoDB
-- Web scraping, IoT - Raspberrypi/Arduino
+#### 💡 What I work with:
+- 🧑‍🎨 Frontend: React, Next.js, TailwindCSS
+- 🔧 Backend: Django, Express.js, Laravel, Next.js API Routes
+- 🗃️ Databases: SQLite, MySQL, MongoDB
+- 🕸️ Web Scraping
+- 🔌 IoT: Raspberry Pi, Arduino
 
-📫 [LinkedIn](https://www.linkedin.com/in/aditya-raj-a000aa187/)
+I enjoy building full-stack webapps, automating workflows, and occasionally messing around with hardware.
+
+My [LinkedIn](https://www.linkedin.com/in/aditya-raj-a000aa187/)
 
 
 ![My GitHub stats](https://gh-readme-stats-ar363.vercel.app/api?username=ar363&show_icons=true&theme=blue-green&count_private=true)
